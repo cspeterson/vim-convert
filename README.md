@@ -58,7 +58,7 @@ git clone git://github.com/cspeterson/vim-convert.git
 
 ### Vundle Vim plugin manager
 
-(Vundle)[https://github.com/VundleVim/Vundle.vim]
+[Vundle](https://github.com/VundleVim/Vundle.vim)
 
 Add this to the Vundle plugin list in your `.vimrc`
 ```viml
