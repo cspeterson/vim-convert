@@ -6,23 +6,7 @@ if exists('g:loaded_convert')
 endif
 let g:loaded_convert = 1
 
-
-""" DOCS {{{1
-" Example $HOME/.units file to make CSS make sense
-" ```
-" pt      computerpoint
-" pc      computerpica
-" add computer iunits mb mB  gb etc
-"
-" list env vars from manpage
-"
-" ```
-""" }}}
-
 """ Config {{{1
-  " Config things
-  "   * shortcut keys or something? i dunno.
-  "   * Config default sig figs
 if !exists('g:convert_command')
   let g:convert_command = 'units'
 endif
