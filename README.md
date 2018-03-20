@@ -4,6 +4,8 @@ convert.vim
 This Vim plugin is a tool for converting units to other units. Time, distance,
 data, power, etc.
 
+![vim-convert](vim-convert.jpg | width=100)
+
 # Usage
 ```viml
 :Convert [[value]|[start unit]] {target unit}
@@ -111,6 +113,10 @@ there is.
 By [Christopher Peterson](https://chrispeterson.info) ([@cspete](https://www,twitter.com/cspete))
 
 This plugin relies on the really actually very awesome [Units utility from GNU](https://www.gnu.org/software/units/)
+
+Images used in the logo art:
+[Vim logo from D0ktorz](https://commons.wikimedia.org/wiki/File:Vimlogo.svg)
+[SI Units from Dono](https://commons.wikimedia.org/wiki/File:SI_base_unit.svg)
 
 License
 -------
