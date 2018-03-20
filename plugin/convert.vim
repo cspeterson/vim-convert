@@ -39,9 +39,6 @@ endfunction
 function! s:Convert_units(...) range
   """ Convert units and insert the result, considering formatting and whether
   """ to overwrite a selection or insert anew
-  if argc() ==# 0
-    echo 'Convert requires at least one argument specifying a target unit for conversion.'
-  endif
 
   " Get current visual selection in reg n, but back it up the orig value first
   let nbak = @n
