@@ -72,7 +72,7 @@ Once help tags have been generated, you can view the manual with
 
 ## Customizing the plugin
 
-To set the path to the `units` command if not in your path:
+To set the path to the `units` command if not in your PATH:
 ```viml
 set g:convert_command='/path/to/units'
 ```

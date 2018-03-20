@@ -14,7 +14,6 @@ CONTENTS                                                    *convert-contents*
 * Changelog
 * Credits
 
-
 ==============================================================================
 INTRODUCTION                                                         *convert*
 
@@ -63,7 +62,7 @@ Examples of input and results and how they get there:
 ==============================================================================
 CUSTOMIZING THE PLUGIN                                   *convert-customizing*
 
-To set the path to the `units` command if not in your path:
+To set the path to the `units` command if not in your PATH:
 >
 set g:convert_command='/path/to/units'
 <
