@@ -4,7 +4,7 @@ convert.vim
 This Vim plugin is a tool for converting units to other units. Time, distance,
 data, power, etc.
 
-<img src="vim-convert.jpg" width="100">
+<img src="vim-convert.jpg" width="400">
 
 # Usage
 ```viml
