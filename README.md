@@ -110,13 +110,12 @@ there is.
 
 # Credits
 
-By [Christopher Peterson](https://chrispeterson.info) ([@cspete](https://www,twitter.com/cspete))
+By [Christopher Peterson](https://chrispeterson.info) ([@cspete](https://www.twitter.com/cspete))
 
 This plugin relies on the really actually very awesome [Units utility from GNU](https://www.gnu.org/software/units/)
 
-Images used in the logo art:
-[Vim logo from D0ktorz](https://commons.wikimedia.org/wiki/File:Vimlogo.svg)
-[SI Units from Dono](https://commons.wikimedia.org/wiki/File:SI_base_unit.svg)
+Images used in the logo art<br/>
+[Vim logo from D0ktorz](https://commons.wikimedia.org/wiki/File:Vimlogo.svg) | [SI Units from Dono](https://commons.wikimedia.org/wiki/File:SI_base_unit.svg)
 
 License
 -------
