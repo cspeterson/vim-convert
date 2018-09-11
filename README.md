@@ -120,4 +120,4 @@ Images used in the logo art<br/>
 License
 -------
 
-Copyright (c) Christopher Peterson. Distributed under [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
+Copyright (c) Christopher Peterson. Distributed under [The MIT License](https://opensource.org/licenses/MIT).

@@ -1,7 +1,7 @@
 *convert.txt* Convert units to other units quickly and easily from within Vim
 
 Author: Christopher Peterson <https://chrispeterson.info> <@cspete>
-License: GPLv2
+License: MIT
 
 ==============================================================================
 CONTENTS                                                    *convert-contents*
