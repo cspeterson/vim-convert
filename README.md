@@ -67,6 +67,11 @@ Add this to the Vundle plugin list in your `.vimrc`
 Plugin 'cspeterson/vim-convert'
 ```
 
+And install with:
+```sh
+vim +PluginInstall
+```
+
 Once help tags have been generated, you can view the manual with
 `:help convert`.
 
