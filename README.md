@@ -37,11 +37,11 @@ Examples of input and results and how they get there:
   ---------------------------------------------------------------------------
   | Selected text   | Command          | What it's doing       | Result     |
   |-----------------|------------------|-----------------------|------------|
-  | 192in           | :Convert ft      | `units 192in ft`      | 4.166ft    |
-  | 16              | :Convert ft in   | `units 16ft in`       | 192        |
-  | *none*          | :Convert 16ft in | `units 16ft in`       | 192in      |
-  | *any text*      | :Convert 16ft in | `units 16ft in`       | 192in      |
-  | 12parsecs       | :Convert hrs     | `units 12parsecs hrs` | *error*\*  |
+  | `192in`           | `:Convert ft`      | `units 192in ft`      | `4.166ft`    |
+  | `16`              | `:Convert ft` in   | `units 16ft in`       | `192`        |
+  | *none*          | `:Convert 16ft` in | `units 16ft in`       | `192in`      |
+  | *any text*      | `:Convert 16ft` in | `units 16ft in`       | `192in`      |
+  | `12parsecs`       | `:Convert hrs`     | `units 12parsecs hrs` | *error*\*  |
   ---------------------------------------------------------------------------
 
 \* parsecs are a unit of distance
