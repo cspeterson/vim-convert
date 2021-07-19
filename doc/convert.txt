@@ -1,6 +1,6 @@
 *convert.txt* Convert units to other units quickly and easily from within Vim
 
-Author: Christopher Peterson <https://chrispeterson.info> <@cspete>
+Author: Christopher Peterson <https://cspeterson.net> <@cspeterson_>
 License: MIT
 
 ==============================================================================
@@ -118,7 +118,7 @@ Init commit
 ==============================================================================
 CREDITS                                                      *convert-credits*
 
-By Christopher Peterson <https://chrispeterson.info> <@cspete>
+By Christopher Peterson <https://cspeterson.net> <@cspeterson_>
 
 This plugin relies on the really actually very awesome Units utility from GNU
 https://www.gnu.org/software/units/

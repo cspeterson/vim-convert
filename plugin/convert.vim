@@ -1,5 +1,5 @@
 " convert.vim - Convert units to other units quickly and easily
-" Author: Christopher Peterson <https://chrispeterson.info>
+" Author: Christopher Peterson <https://cspeterson.net>
 
 if exists('g:loaded_convert')
   finish

@@ -1,5 +1,5 @@
 " vim-convert/autoload/convert.vim
-" Author: Christopher Peterson <https://chrispeterson.info>
+" Author: Christopher Peterson <https://cspeterson.net>
 
 """ Functions {{{1
 function! convert#Display_units_defs()

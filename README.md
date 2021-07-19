@@ -115,7 +115,7 @@ there is.
 
 # Credits
 
-By [Christopher Peterson](https://chrispeterson.info) ([@cspete](https://www.twitter.com/cspete))
+By [Christopher Peterson](https://cspeterson.net) ([@cspeterson_](https://www.twitter.com/cspeterson_))
 
 This plugin relies on the really actually very awesome [Units utility from GNU](https://www.gnu.org/software/units/)
 
